@@ -20,6 +20,7 @@
     "@babel/preset-typescript": "^7.7.2",
     "@types/webpack-env": "^1.14.1",
     "babel-loader": "^8.0.6",
+    "prettier": "^1.19.1",
     "react-hot-loader": "^4.12.10",
     "source-map-loader": "^0.2.4",
     "tslint": "^5.20.1",
